@@ -76,7 +76,7 @@ Per la spiegazione dettagliata di come leggere ogni grafico, consulta la **Guida
 
 - Il rendimento atteso è un'**ipotesi** dell'utente, non una previsione: il rendimento reale con ogni probabilità sarà diverso.
 - Non sono modellati eventi estremi "una tantum" (cigni neri) come categoria separata; gli esiti estremi emergono solo dalla casualità della distribuzione t-student.
-- Non è modellata la correlazione tra anni di mercato negativo e rischio di perdita del reddito, né il costo psicologico del debito.
+- Non è modellata la correlazione nei rendimenti tra anni successivi, né l'asimmetria dei rendimenti, né il costo psicologico del debito.
 - Non si tiene conto di costi di transazione, commissioni specifiche degli strumenti, cambi di reddito imprevisti, surroga del mutuo, variazioni del tasso su mutui variabili.
 - Il modello assume rendimento e tassazione identici nei due scenari (stesso portafoglio titoli sottostante).
 - I rendimenti e l'inflazione sono calcolati su base annuale e poi distribuiti sui mesi.
