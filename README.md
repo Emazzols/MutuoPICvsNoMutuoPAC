@@ -11,7 +11,7 @@
 >
 > **Prima di usare questo strumento è fortemente consigliato leggere per intero il [manuale](manuale_mutuo_vs_investimento.pdf) ed essere pienamente consapevoli dei limiti del modello.**
 >
-> L'autore/i non si assumono alcuna responsabilità per decisioni prese, in tutto o in parte, sulla base dell'utilizzo di questo codice o dei suoi output.
+> L'autore non si assume alcuna responsabilità per decisioni prese, in tutto o in parte, sulla base dell'utilizzo di questo codice o dei suoi output.
 
 ---
 
